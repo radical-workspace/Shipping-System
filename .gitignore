@@ -1,0 +1,33 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code / JetBrains / Rider settings
+.vscode/
+.idea/
+
+# ASP.NET Secrets
+**/appsettings.*.json
+secrets.json
+
+# DotNet CLI artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Test results
+TestResults/
+*.log
+
+# Others
+*.nupkg
+*.snupkg
+packages/
+.vs/
